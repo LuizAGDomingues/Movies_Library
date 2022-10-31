@@ -1,0 +1,11 @@
+.movie-page {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 2rem auto;
+}
+
+.movie-page svg {
+    font
+}
